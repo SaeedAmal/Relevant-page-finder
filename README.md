@@ -8,4 +8,3 @@ The input data set used for evaluating this approach are available within the zi
 
 The output results showing the measures of the trained models can be found under out/info
 
-The soucre code copy right 
