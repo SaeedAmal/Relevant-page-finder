@@ -1,5 +1,6 @@
 # Relevant-page-finder
-Given a person name identifies highly relevant sources over the web.
+Given a person name identifies highly relevant freely available Web pages Edit
+Add topics.
 
 The source code can be downloaded at https://drive.google.com/file/d/1S0ytXPkq8BmWLW2RNVWd4iblQw-UgEoL/view?usp=sharing
 
